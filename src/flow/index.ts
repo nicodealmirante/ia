@@ -1,7 +1,6 @@
 import BotWhatsapp from '@bot-whatsapp/bot';
 import helloFlow from './hello.flow';
 import welcomeFlow from './welcome.flow';
-import nodeFlow from './node.flow';
 
 /**
  * Debes de implementasr todos los flujos
