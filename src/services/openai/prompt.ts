@@ -19,16 +19,24 @@ clientes tuvieron éxito Con su inversión algunos lo aprovechan para tener un i
 horas serian los $1500 dólares.
  con la impresora que te recomendé rinde 640 impresiones  que a una cantidad de 30 fotos por evento nos daría 21 eventos Por lo cual cubriremos el valor del equipo y casi toda la impresora con el primer insumo. la impresora imprime en 5 x 15 con las tiritas tradicionales imprime de a dos Qué quiere decir qué te imprime una 10 x 15 y la corta al medio por lo tanto te entrega 5 * 15.  
  serían 1 280 fotos impresas en 5 x 15 pero no se puede imprimir de a una o sea imprime de a dos por lo tanto serían 640 impresiones pero tendríamos  1280 fotos 5*15 .  el equipo con la pantalla totalmente multitactil  O sea que arrastrando los dos dedos ampliamos y achicamos los ítems de la pantalla.  viene con la posibilidad de llevarte las fotos celular escaneando un código QR así no necesitas impresora o achicas  la cantidad de copias qué imprimes por evento.  más o menos invitado que utiliza el espejo demora 5 minutos en efectuar la
- sesión por lo tanto 60 minutos por dos que son 2 horas serían 120 minutos dividido 5 minutos qué tenemos por sesión sería 24 sesiones realizadas en el espejo qué se le puede entregar dos copias 5 * 15 y el resto con el QR si lo desean y así tendrías hasta más de 30 eventos con un solo insumo. `,
- 
-    `Producto: FilaVIP, UNIFILAS LED. Valor: 80 Dolares cada una o en pesos sujeto al dolar $${dolar*80}. `,
-    `Producto: Plataforma 360 Super Slow, la plataforma 360 funciona tan solo presionando un boton. Graba, edita y proyecta en vivo en un monitor exibido sobre un stand (todo incluido) su funcionamiento con arranque progresivo y su funcionamiento realizado totalmente con engranajes y rodamientos de Acero Torneado hacen un equipo transportable e inrrompible. (EQUIPO TODO INCLUIDO LLAVE EN MANO), Valor en dolares 1500 o en pesos valor dolar actual ${dolar*1500},UNIFILA LED*\n¡Optimiza tus espacios y atrae la atención de tus clientes con nuestros organizadores de fila con tecnología Pixel LED!*Plataforma 360 Super Slow*',
+ sesión por lo tanto 60 minutos por dos que son 2 horas serían 120 minutos dividido 5 minutos qué tenemos por sesión sería 24 sesiones realizadas en el espejo qué se le puede entregar dos copias 5 * 15 y el resto con el QR si lo desean y así tendrías hasta más de 30 
+ eventos con un solo insumo. `, 
+    
+    `Producto: FilaVIP, UNIFILAS LED. Valor: 80 Dolares cada una o en pesos sujeto al dolar $${dolar*80}, Sogas Trenzadas valor 20 Dolares o pesos sujeto al dolar, DESCRIPCION:  la fila VIP son unifilas o columnas organizadoras de fila diseñadas por nosotros cambio 
+    de las tradicionales poseen Pixel LED  haciéndolas mucho más llamativas a un valor similar que las tradicionales.  estás cuentan con la parte superior donde enganchan las sogas  y la base completamente de acero inoxidable dentro de la base se oculta un contrapeso
+    de 5 kg  que esté se envía vacío y se llena con arena para abaratar el valor del flete también puede usarse sin el contrapeso o con el contrapeso vacío pero se corre el riesgo que cuando alguien toque las sogas  ésta se caiga la parte lumínica es plástico 
+    translúcido de un centímetro de espesor prácticamente irrompible y aguantadero que las de chapa comunes.  estás columnas pueden ser alimentadas mediante un adaptador de corriente USB un cargador portátil de celulares Power Bank qué puede ser ocultado en la base. 
+    el valor de un Power Bank es de aproximadamente 4000 pesos.  También tenemos las sogas trenzadas  de un metro y medio con los ganchos en las puntas.  en los colores negro y rojo  a elección.  comprando cuatro columnas y dos sogas obsequiamos alfombra de un metro y
+    medio x un metro en color  roja de regalo.  el valor de cada columna es de $80 dólares o valor en pesos sujeto al Dólar y las sogas trenzadas tienen un valor $20.  `,
+  
+    `Producto: Plataforma 360 Super Slow, la plataforma 360 funciona tan solo presionando un boton. Graba, edita y proyecta en vivo en un monitor exibido sobre un stand (todo incluido) su funcionamiento con arranque progresivo y su funcionamiento realizado totalmente
+    con engranajes y rodamientos de Acero Torneado hacen un equipo transportable e inrrompible. (EQUIPO TODO INCLUIDO LLAVE EN MANO), Valor en dolares 1500 o en pesos valor dolar actual ${dolar*1500},UNIFILA LED*\n¡Optimiza tus espacios y atrae la atención de tus clientes con nuestros organizadores de fila con tecnología Pixel LED!*Plataforma 360 Super Slow*',
     '\nNuestra plataforma incluye todo lo necesario para poder brindar un servicio profesional. Incluye Monitor transmitiendo en vivo. Proceso de editado automatico.',
     ' (Una vez grabado se reproduce en el monitor automaticamente ya editado)',
     'Los invitados podran escanear un codigo QR UNICO para poder visualizar todos los videos del evento *EN EL MOMENTO*',
             '\nLa plataforma controlada por mando a distancia incluye: variador de velocidad, arranque y parada suave, soporte reforzado, Aro de Led, 4 bastones led pixel de 1 mt, led rgb en plataforma, stand para TV (no incluida) y asesoramiento tecnico.',
            '\n*Equipo listo para trabajar*.',
-          'El valor del equipo es de 1700 U$S.' ,
+          'El valor del equipo es de 1500 U$S.' ,
           '▶ REQUERIDO:Necesita contar con un Apple Iphone 13 o suoperior (dispositivo de grabacion)',
     'y un TV LED de 32 o mas (monitoreo)'])\n',
     'En SELFIE MIRROR, entendemos la importancia de mantener tus espacios organizados y atractivos. Nuestros organizadores de fila no solo te ayudarán a mantener un flujo ordenado de clientes, sino que también añadirán un toque de modernidad y estilo a tu negocio.\n',
