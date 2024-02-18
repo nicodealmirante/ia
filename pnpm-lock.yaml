@@ -35,9 +35,6 @@ dependencies:
   openai:
     specifier: ^4.24.1
     version: 4.24.1
-  paypal-rest-sdk:
-    specifier: ^1.8.1
-    version: 1.8.1
   wa-sticker-formatter:
     specifier: 4.3.2
     version: 4.3.2
@@ -3298,13 +3295,6 @@ packages:
     resolution: {integrity: sha512-5DFkuoqlv1uYQKxy8omFBeJPQcdoE07Kv2sferDCrAq1ohOU+MSDswDIbnx3YAM60qIOnYa53wBhXW0EbMonrQ==}
     dev: false
 
-  /paypal-rest-sdk@1.8.1:
-    resolution: {integrity: sha512-Trj2GuPn10GqpICAxQh5wjxuDT7rq7DMOkvyatz05wI5xPGmqXN7UC0WfDSF9WSBs4YdcWZP0g+nY+sOdaFggw==}
-    engines: {node: '>= v0.6.0'}
-    dependencies:
-      buffer-crc32: 0.2.13
-      semver: 5.7.2
-    dev: false
 
   /peek-readable@4.1.0:
     resolution: {integrity: sha512-ZI3LnwUv5nOGbQzD9c2iDG6toheuXSZP5esSHBjopsXH4dg19soufvpUGA3uohi5anFtGb2lhAVdHzH6R/Evvg==}
