@@ -23,7 +23,6 @@ RUN apk add --no-cache \
 
 COPY . .
 RUN pnpm i
-RUN pnpm build
 
 #Etapa de producción
 FROM builder as deploy
